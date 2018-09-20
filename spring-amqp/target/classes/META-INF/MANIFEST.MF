@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: rabbitmq-tutorials
+Implementation-Version: 1.7.1.RELEASE
+Built-By: e.garcia.san.martin
+Implementation-Vendor-Id: org.springframework.amqp
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/rabbit-tutor
+ ials/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
